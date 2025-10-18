@@ -1,0 +1,18 @@
+-- List each film's title and its category
+-- List each customer's name, last name, and the number of films they rented
+-- List customers who have not rented any films
+-- How many films are in each category?
+-- List categories with more than 10 films
+-- Find the number of films each actor has appeared in. Rank the top 5 actors
+-- Get the title of the longest film
+-- List films longer than the average length
+-- List films longer than the average length in their own category
+-- Show the number of rentals made in each month (Group by year and month)
+-- List transactions where the rental duration was more than 5 days
+-- Rank films in each category by length and show the rank number
+-- Create a column showing the average of the last 5 payments
+-- Show each customer's total payment, total number of rentals, and average rental amount
+-- Rank the top 10 customers with the highest total payments
+-- Find the highest-grossing film in each category
+-- Show the number of rentals and total payments made by customers living in each city
+-- Sort the results from the city with the highest payment to the lowest
