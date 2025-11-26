@@ -39,6 +39,7 @@ Notes:
 Currently this repository contains the following dataset folders:
 
 - dvdRental
+- NorthWind
 
 ---
 
